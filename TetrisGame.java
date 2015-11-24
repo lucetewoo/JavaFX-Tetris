@@ -18,11 +18,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
-/**
- * �옄諛뷀봽濡쒓렇�옒諛� JavaFX �뀒�듃由ъ뒪 怨쇱젣 
- * @author 源��긽吏�
- * Tetris 03//
- */
+
 public class TetrisGame extends Application{
 	
 	private Button startBtn = new Button("start");
